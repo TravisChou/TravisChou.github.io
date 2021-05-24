@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TravisChou的博客小屋</title>
+  
+  <subtitle>笔耕不辍，热血青春</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-05-24T05:28:37.261Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>TravisChou</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>女皇武则天</title>
+    <link href="http://example.com/2021/01/03/%E5%A5%B3%E7%9A%87%E6%AD%A6%E5%88%99%E5%A4%A9/"/>
+    <id>http://example.com/2021/01/03/%E5%A5%B3%E7%9A%87%E6%AD%A6%E5%88%99%E5%A4%A9/</id>
+    <published>2021-01-03T11:29:40.000Z</published>
+    <updated>2021-05-24T05:28:37.261Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h1><h2 id="籍贯"><a href="#籍贯" class="headerlink" title="籍贯"></a>籍贯</h2><p>祖籍——并州文水，长安——出生地，利州——生活过。<br><img src="https://tse4-mm.cn.bing.net/th/id/OIP.HSmhHAlUScvZBLIXVQVE7gAAAA?pid=Api&rs=1" alt="武则天"><br>文水武氏为小姓，属于中间阶级，有一定的社会声望，其父名为武士彟，适逢隋炀帝大兴土木，贩卖木材发财，隋唐的身份等级明显(由高至低为士农工商，就是知识分子、农民、手工业者、商人)，为了提高身份地位，决定从军，利用钱财官拜鹰扬府队正（等级最低的官），并于公元615年，认识了一生中的贵人——李渊，两年后，隋朝势危，群雄蜂起，李渊提拔其为行军司铠参军(军需官)，其间看出李渊野心勃勃，想当皇帝，思索再三，做了三件事力挺李渊，其一——献兵书，献符瑞；协助发展势力；倾尽家私，举族从军。识人的眼光加上金钱的力量，使得其在李渊称帝后其及其哥哥封大官，后官至三品工部尚书，武士彟政治地位有了，希望改变身份背景，不能一直被别人背后嚼舌头说是“木头贩子”，经唐高祖李渊说媒，娶得隋炀帝宗室，隋朝“四贵”之一杨夫人，正统的金枝玉叶，名门望族，结婚后一连生下三个女儿，二女儿就是武则天。则天并不是武则天的名字，是武则天退位后，她的儿子给她的尊号——则天大圣皇帝，而在武则天当皇帝前后，她给自己取了一个名字——武曌，日月当空意在制造政治舆论<br><img src="https://cn.bing.com/images/search?view=detailV2&ccid=H6ntx3Zu&id=1CE8BAA3B10DFAA93D0EDF1386B7EC2D1A52FA4F&thid=OIP.H6ntx3Zu4o2ccM_b8LfZcAAAAA&mediaurl=http://h.hiphotos.baidu.com/baike/w%253D268/sign=60f72b83a2ec08fa260014a161ef3d4d/6159252dd42a2834a36fb93759b5c9ea14cebfc5.jpg&exph=268&expw=268&q=%E6%9B%8C&simid=608045753325715956&ck=47663F126C94F9F3850BE97717FD7AFE&selectedIndex=0&FORM=IRPRST" alt="曌"><br>而武媚娘是她是唐太宗的才人的时候，唐太宗为其取得名字。对于武则天的童年生活，史书没有记载，推测可能与同时代的官宦小姐一样过着养尊处优的生活，受其母亲的言传身教，通读文史书籍。后武士彟去世，母女遭族人排挤，</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h1&gt;&lt;h2 id=&quot;籍贯&quot;&gt;&lt;a href=&quot;#籍贯&quot; class=&quot;headerlink&quot; title=&quot;籍贯&quot;&gt;&lt;/a&gt;籍贯&lt;/h2&gt;&lt;p&gt;祖籍—</summary>
+      
+    
+    
+    
+    
+    <category term="百家讲坛" scheme="http://example.com/tags/%E7%99%BE%E5%AE%B6%E8%AE%B2%E5%9D%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>简单测试博客新建</title>
+    <link href="http://example.com/2020/12/31/%E7%AE%80%E5%8D%95%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2%E6%96%B0%E5%BB%BA/"/>
+    <id>http://example.com/2020/12/31/%E7%AE%80%E5%8D%95%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2%E6%96%B0%E5%BB%BA/</id>
+    <published>2020-12-31T08:07:30.000Z</published>
+    <updated>2021-03-12T09:15:40.635Z</updated>
+    
+    <content type="html"><![CDATA[<p>命令新建博客：hexo n “文章标题”<br>可以在其他markdown软件中编辑好，复制粘贴过来，如sublime或者CSDN的markdown编辑器<br>tags: [测试博客新建,博客]<br>在需要展示隔断的地方加入下面这句话</p><a id="more"></a><p>看见我了吧<br>在hexo文件下打开git bash here输入命令<br>hexo clean<br>hexo g -d</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;命令新建博客：hexo n “文章标题”&lt;br&gt;可以在其他markdown软件中编辑好，复制粘贴过来，如sublime或者CSDN的markdown编辑器&lt;br&gt;tags: [测试博客新建,博客]&lt;br&gt;在需要展示隔断的地方加入下面这句话&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="测试博客新建" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2%E6%96%B0%E5%BB%BA/"/>
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TravisChou的第一篇Blog</title>
+    <link href="http://example.com/2020/12/28/TravisChou%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87Blog/"/>
+    <id>http://example.com/2020/12/28/TravisChou%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87Blog/</id>
+    <published>2020-12-28T12:07:36.000Z</published>
+    <updated>2020-12-31T08:37:35.199Z</updated>
+    
+    <content type="html"><![CDATA[<p>2020-12-28 博客网站部署<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>三步问题。有个小孩正在上楼梯，楼梯有n阶台阶，小孩一次可以上1阶、2阶或3阶。实现一种方法，计算小孩有多少种上楼梯的方式。结果可能很大，你需要对结果模1000000007。</p><p>示例1:</p><p>输入：n = 3 输出：4 说明: 有四种走法</p><p>示例2:</p><p>输入：n = 5 输出：13<br><img src="https://img-blog.csdnimg.cn/20201222201059960.png#pic_center" alt="在这里插入图片描述"><br>//在需要阶段的地方插入该代码语句</p><a id="more"></a> <p>2020-12-28 博客网站部署<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>三步问题。有个小孩正在上楼梯，楼梯有n阶台阶，小孩一次可以上1阶、2阶或3阶。实现一种方法，计算小孩有多少种上楼梯的方式。结果可能很大，你需要对结果模1000000007。</p><p>示例1:</p><p>输入：n = 3 输出：4 说明: 有四种走法</p><p>示例2:</p><p>输入：n = 5 输出：13<br><img src="https://img-blog.csdnimg.cn/20201222201059960.png#pic_center" alt="在这里插入图片描述"><br>2020-12-28 博客网站部署<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>三步问题。有个小孩正在上楼梯，楼梯有n阶台阶，小孩一次可以上1阶、2阶或3阶。实现一种方法，计算小孩有多少种上楼梯的方式。结果可能很大，你需要对结果模1000000007。</p><p>示例1:</p><p>输入：n = 3 输出：4 说明: 有四种走法</p><p>示例2:</p><p>输入：n = 5 输出：13<br><img src="https://img-blog.csdnimg.cn/20201222201059960.png#pic_center" alt="在这里插入图片描述"><br>2020-12-28 博客网站部署<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>n范围在[1, 1000000]之间<br>三步问题。有个小孩正在上楼梯，楼梯有n阶台阶，小孩一次可以上1阶、2阶或3阶。实现一种方法，计算小孩有多少种上楼梯的方式。结果可能很大，你需要对结果模1000000007。</p><p>示例1:</p><p>输入：n = 3 输出：4 说明: 有四种走法</p><p>示例2:</p><p>输入：n = 5 输出：13<br><img src="https://img-blog.csdnimg.cn/20201222201059960.png#pic_center" alt="在这里插入图片描述"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2020-12-28 博客网站部署&lt;br&gt;n范围在[1, 1000000]之间&lt;br&gt;n范围在[1, 1000000]之间&lt;br&gt;n范围在[1, 1000000]之间&lt;br&gt;n范围在[1, 1000000]之间&lt;br&gt;n范围在[1, 1000000]之间&lt;br&gt;n范围在[1, 1000000]之间&lt;br&gt;n范围在[1, 1000000]之间&lt;br&gt;n范围在[1, 1000000]之间&lt;br&gt;n范围在[1, 1000000]之间&lt;br&gt;n范围在[1, 1000000]之间&lt;br&gt;n范围在[1, 1000000]之间&lt;br&gt;n范围在[1, 1000000]之间&lt;br&gt;n范围在[1, 1000000]之间&lt;br&gt;n范围在[1, 1000000]之间&lt;br&gt;n范围在[1, 1000000]之间&lt;br&gt;n范围在[1, 1000000]之间&lt;br&gt;三步问题。有个小孩正在上楼梯，楼梯有n阶台阶，小孩一次可以上1阶、2阶或3阶。实现一种方法，计算小孩有多少种上楼梯的方式。结果可能很大，你需要对结果模1000000007。&lt;/p&gt;
+&lt;p&gt;示例1:&lt;/p&gt;
+&lt;p&gt;输入：n = 3 输出：4 说明: 有四种走法&lt;/p&gt;
+&lt;p&gt;示例2:&lt;/p&gt;
+&lt;p&gt;输入：n = 5 输出：13&lt;br&gt;&lt;img src=&quot;https://img-blog.csdnimg.cn/20201222201059960.png#pic_center&quot; alt=&quot;在这里插入图片描述&quot;&gt;&lt;br&gt;//在需要阶段的地方插入该代码语句&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="LeetCode" scheme="http://example.com/tags/LeetCode/"/>
+    
+  </entry>
+  
+</feed>
